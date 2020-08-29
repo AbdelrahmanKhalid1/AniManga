@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27188675328",
+    "firebase_url": "https://animanga-8eb39.firebaseio.com",
+    "project_id": "animanga-8eb39",
+    "storage_bucket": "animanga-8eb39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27188675328:android:71d61e95f293a18b4569e5",
+        "android_client_info": {
+          "package_name": "com.example.animanga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27188675328-cja11gr7k1dq1p8jmiif1adr0cjc4n12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.animanga",
+            "certificate_hash": "30a99e152dc45778070d8438447e2a765b78dfd6"
+          }
+        },
+        {
+          "client_id": "27188675328-vsit7clpveebuanfmhn5an9rv9u5vj87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOlBSb34tqgGDDWtFUmvuAHnIQY1W3u7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27188675328-vsit7clpveebuanfmhn5an9rv9u5vj87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

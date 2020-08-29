@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AniManga</string>
+
+    <string name="anime">ANIME</string>
+    <string name="manga">MANGA</string>
+
+    <string name="name">Name</string>
+    <string name="choos_cat">Choose Category: </string>
+    <string name="link">Link</string>
+    <string name="status">Status</string>
+    <string name="desc">Description</string>
+    <string name="upload_poster">Upload Poster</string>
+    <string name="save">Save</string>
+
+    <array name="spinner_cat">
+        <item>ANIME</item>
+        <item>MANGA</item>
+    </array>
+
+    <array name="spinner_status">
+        <item>Done</item>
+        <item>Undone</item>
+    </array>
+</resources>
